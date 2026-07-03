@@ -1,6 +1,7 @@
 # Albino Kath Hound Armor
 
 Game: KOTOR 1
+
 Author: Dodrari Kaan
 
 Version: 1.0.0
@@ -26,8 +27,11 @@ Use this mod however you want. Just make sure to credit me.
 ## Special Thanks
 
 Fred Tetra for the Kotor Tool
+
 KobaltBlu for Kotor Scripting Tool
+
 Stoffe for TSLPatcher
+
 tk102 for DLG Editor
 
 

@@ -4,7 +4,7 @@ Game: KOTOR 1
 
 Author: Dodrari Kaan
 
-Version: 1.0.0
+GitHub: https://github.com/danielstegink/Kotor.AlbinoKathHoundArmor
 
 
 
@@ -18,6 +18,14 @@ Use the TSLPatcher
 
 
 
+## Compatibility Issues
+
+This mod adds item texture variations which may overlap with texture variations added by other mods
+
+* D4 Light Armor - Texture Variation 20
+
+
+
 ## Permissions
 
 Use this mod however you want. Just make sure to credit me.
@@ -26,13 +34,13 @@ Use this mod however you want. Just make sure to credit me.
 
 ## Special Thanks
 
-Fred Tetra for the Kotor Tool
+Fred Tetra - Kotor Tool
 
-KobaltBlu for Kotor Scripting Tool
+KobaltBlu - Kotor Scripting Tool
 
-Stoffe for TSLPatcher
+Stoffe - TSLPatcher
 
-tk102 for DLG Editor
+tk102 - DLG Editor
 
 
 

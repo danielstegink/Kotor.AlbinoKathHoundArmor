@@ -18,11 +18,19 @@ Use the TSLPatcher
 
 
 
-## Compatibility Issues
+## Compatibility
+
+This mod modifies Kni's dialogue as well as the Albino Kath Hound's inventory on Dantooine. Any mods that modify the same may not be compatible.
+
+
 
 This mod adds item texture variations which may overlap with texture variations added by other mods
 
 * D4 Light Armor - Texture Variation 20
+
+
+
+This mod is compatible with K1R and K1CP.
 
 
 
